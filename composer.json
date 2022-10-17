@@ -1,13 +1,15 @@
 {
-    "name": "ralouphie/mimey",
-    "description": "PHP package for converting file extensions to MIME types and vice versa.",
+    "name": "jdfx8/mimey",
+    "description": "Fork of Mimey",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ralph Khattar",
-            "email": "ralph.khattar@gmail.com"
+            "name": "Joel Derbyshire",
+            "email": "info@joelderbyshire.digital"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
